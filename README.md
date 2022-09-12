@@ -1,6 +1,6 @@
-# flutter_application_1
+# flutter_bloc_and_api
 
-A new Flutter project.
+A Flutter project showing usage of Bloc an API.
 
 ## Getting Started
 
